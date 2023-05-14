@@ -13,3 +13,9 @@ B. Switch as Variable Value Match
 
 / ********Chapter 42 Do While Loop
 
+Chapter 43  Scrpiting 
+CHapter 44  Commenting
+// for single line comment
+/* kljfk j        for multi line comment
+   kgfkhgjkfgk
+   */
