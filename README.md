@@ -8,3 +8,4 @@ CHapter 37 Functions till 38
 CHapter 39 switch statements:
 A. Switch as Boolean Evaluation
 B. Switch as Variable Value Match
+
