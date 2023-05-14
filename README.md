@@ -19,3 +19,6 @@ CHapter 44  Commenting
 /* kljfk j        for multi line comment
    kgfkhgjkfgk
    */
+   
+   
+   Chapter : 45 and 46    Events === onClick
