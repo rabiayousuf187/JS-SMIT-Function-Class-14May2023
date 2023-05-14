@@ -96,3 +96,9 @@ do {
   num1++;
 } while (num1 <= 10);
 console.log("Do While loop Completed");
+
+
+// Event
+function msg(){
+    alert("Hi");
+}
