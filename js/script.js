@@ -14,7 +14,7 @@ print(fname, lname);
 console.log(print(fname, lname));
 
 // Switch Case
-// CHapter 39 Switch statements:How to start them
+// CHapter 39 and 40 Switch statements:How to start them
 
 // A.  Switch as **********   Boolean Evaluation
 let x = +prompt("Enter an Integer \n To Check Positive Negative or Zero:");
@@ -74,3 +74,11 @@ switch (num){
     break;
 }
 
+// ********Chapter 41 While Loop
+let num1 = 0;
+
+while( num1 <= 10){
+    console.log(num1);
+    num1++;
+}
+console.log("While loop Completed");
