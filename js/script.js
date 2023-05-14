@@ -80,9 +80,19 @@ switch (num) {
 // Used where unknown times loop run
 let num1 = 0;
 let table = 2;
-console.log("Print Table of "+ table +" Using While loop:");
+console.log("Print Table of " + table + " Using While loop:");
 while (num1 <= 10) {
   console.log(`${table} * ${num1} = ${table} * ${num1}`);
   num1++;
 }
 console.log("While loop Completed");
+
+// ********Chapter 42 Do While Loop
+num1 = 1;
+table = 8;
+console.log("Print Table of " + table + " Using Do While loop:");
+do {
+  console.log(`${table} * ${num1} = ${table} * ${num1}`);
+  num1++;
+} while (num1 <= 10);
+console.log("Do While loop Completed");
